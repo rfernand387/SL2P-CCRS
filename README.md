@@ -1,4 +1,4 @@
-# SL2P-CCRS
+SL2P-CCRS
 
 Simplified Level 2 Processor - CCRS
 
