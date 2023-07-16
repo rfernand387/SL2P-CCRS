@@ -1,0 +1,1 @@
+SMAC coefficients per sensor.  
